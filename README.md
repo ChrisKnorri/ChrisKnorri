@@ -12,7 +12,7 @@ I thrive at the intersection of **technology** and **creativity**, bringing a un
 - 🎯 Currently honing my skills in **software development** and exploring innovative **tech solutions**.  
 - 🌟 Always excited to collaborate on **open-source projects** to make technology **accessible and user-friendly**.  
 - 🧠 Looking for guidance in mastering **complex coding paradigms** and **best practices**.  
-- 🎷 Ask me about **jazz music**, **saxophone techniques**, or anything **computer science** related!  
+- 🎷 Ask me about **jazz music**, **saxophone techniques**, or anything **computer science** and **gaming** related!  
 - 📫 Let's connect:  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christopher-schneider-7a0442276/) 
   [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=instagram&style=for-the-badge)](https://instagram.com/ChrisKnorri) 
@@ -37,21 +37,13 @@ I thrive at the intersection of **technology** and **creativity**, bringing a un
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4A90E2?style=for-the-badge&logo=pandas&logoColor=white)
-![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
-
 
 ---
 
