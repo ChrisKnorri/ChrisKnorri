@@ -3,7 +3,6 @@
 I'm Christopher Schneider, a computer science student, proud father, and passionate jazz saxophonist. I thrive at the intersection of technology and creativity, bringing a unique perspective to my projects.
 
 - 🔭 I’m currently working on enhancing my skills in software development and exploring innovative tech solutions.
-- 🌱 I’m currently learning advanced algorithms and their applications in real-world scenarios.
 - 👯 I’m looking to collaborate on open-source projects that aim to make technology more accessible and user-friendly.
 - 🤔 I’m looking for help with mastering complex coding paradigms and best practices.
 - 💬 Ask me about jazz music, saxophone techniques, or anything related to computer science.
