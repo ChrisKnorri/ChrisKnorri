@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Christopher Schneider. 🎷💻
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right" />
-
 I am a **Computer Science student**, a proud father, and a passionate **jazz saxophonist**.  
 I thrive at the intersection of **technology** and **creativity**, bringing a unique perspective to my projects.
 
