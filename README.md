@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 my name is Christopher Schneider.
 
-I'm Christopher Schneider, a computer science student, proud father, and passionate jazz saxophonist. I thrive at the intersection of technology and creativity, bringing a unique perspective to my projects.
+I am a computer science student, proud father, and passionate jazz saxophonist. I thrive at the intersection of technology and creativity, bringing a unique perspective to my projects.
 
 - 🔭 I’m currently working on enhancing my skills in software development and exploring innovative tech solutions.
 - 👯 I’m looking to collaborate on open-source projects that aim to make technology more accessible and user-friendly.
