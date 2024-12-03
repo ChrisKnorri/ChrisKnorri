@@ -66,7 +66,5 @@ I’m looking forward to working on:
 
 ## 🌟 Let's Build Something Amazing Together  
 
-![Coding GIF](https://media.giphy.com/media/3o7aD4s0Xnm95VIi6k/giphy.gif)
-
 Feel free to explore my repositories and get in touch!  
 Let's **connect** and **collaborate** to create something **extraordinary**.
