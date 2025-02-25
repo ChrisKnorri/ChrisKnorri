@@ -12,9 +12,8 @@ I thrive at the intersection of **technology** and **creativity**, bringing a un
 - 🧠 Looking for guidance in mastering **complex coding paradigms** and **best practices**.  
 - 🎷 Ask me about **jazz music**, **saxophone techniques**, or anything **computer science** and **gaming** related!  
 - 📫 Let's connect:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christopher-schneider-7a0442276/) 
-  [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=instagram&style=for-the-badge)](https://instagram.com/ChrisKnorri) 
-  [![Email](https://img.shields.io/badge/-Email-grey?logo=gmail&style=for-the-badge)](mailto:christopher.schneider@gmx.net)  
+  [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?logo=Linktree&style=for-the-badge)](https://chris-schneider.com/linktree)
+
 
 ---
 
